@@ -366,7 +366,7 @@ bash batch_eval_gpt_single.sh gpt-4-1106-preview 127500
       title={LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to 256K}, 
       author={Tao Yuan and Xuefei Ning and Dong Zhou and Zhijie Yang and Shiyao Li and Minghui Zhuang and Zheyue Tan and Zhuyu Yao and Dahua Lin and Boxun Li and Guohao Dai and Shengen Yan and Yu Wang},
       year={2024},
-      eprint={},
+      eprint={2402.05136},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
