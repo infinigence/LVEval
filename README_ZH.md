@@ -1,5 +1,5 @@
 <p align="center">
-    🤗 <a href="https://huggingface.co/datasets/Infinigence/LVEval" target="_blank">HF Repo</a> • 📃 <a href="https://arxiv.org/" target="_blank">Paper</a>
+    🤗 <a href="https://huggingface.co/datasets/Infinigence/LVEval" target="_blank">HF Repo</a> • 📃 <a href="https://arxiv.org/abs/2402.05136" target="_blank">Paper</a>
 </p>
 
 Read this in [English](README.md).
