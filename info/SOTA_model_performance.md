@@ -23,3 +23,4 @@ The evaluation of Meta-Llama-3.1-70B-Instruct is currently in progress.
 
 For close models with long-context capability, we present the results of Kimi(api moonshot-v1-128k). Due to the high cost(707.52M tokens, 42451.2RMB) of evaluation on all five length levels, we can only bear the cost of evaluation on 16k and 32k length levels. We hope this partial results can provide a performance reference for SOTA long-context LLMs.
 
+![](kimi_partial.png)
